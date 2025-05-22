@@ -1,8 +1,0 @@
-<DOCTYPE! html>
-<html lang="en">
-<head>
-<link rel="stylesheet" href="elephants.css"/>
-<body>
-<h1>Elephants</h1>
-</body>
-</html>
